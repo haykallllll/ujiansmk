@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #ef4444; /* Merah */
+}
+
+body {
+  @apply bg-gray-50 text-gray-900;
+}
